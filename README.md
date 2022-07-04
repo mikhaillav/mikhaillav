@@ -3,7 +3,7 @@ ____
 
 #### tg: @Prorok_ilon
 
-#### discord: prorok#6193
+#### discord: prorok#1433
 
 ____
 
