@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style = "float: center" src="https://user-images.githubusercontent.com/59438110/179772257-a8d9ea39-175b-4b59-9c77-523c9aaeff95.png" width = "20%"/>
+  <img style = "float: center" src="https://avatars.githubusercontent.com/u/59438110?s=400&u=0dd8c4316b126b52abfcf1dc0162669adc69fa75&v=4" width = "20%"/>
 </div>
 <div align="center">
   <h4>I'm beginner developer & administrator from Russia 🇷🇺</h4>
