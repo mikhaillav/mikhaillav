@@ -32,7 +32,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhaillav&show_icons=true&theme=)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaillav&langs_count=5)](https://github.com/mikhaillav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail&langs_count=5)](https://github.com/mikhaillav)
 
 
 
