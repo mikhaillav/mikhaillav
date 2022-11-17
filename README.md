@@ -11,7 +11,7 @@
   <li>My favorite languages are JS and python</li>
   <li>I play minecraft bedrock, have own server</li>
   <li>My Telegram: <a href="https://t.me/Prorok_ilon">Prorok_ilon</a></li>
-  <li>My Discord: <a href="https://discordapp.com/users/930692166685192213/">prorok#1433</a></li>
+  <li>My Discord: <a href="https://discordapp.com/users/1012410375788048384/">prorok#1661</a></li>
   
 </div>
 
