@@ -8,8 +8,8 @@
 <div align="left">
   <h2>:moyai:About me:</h2>
   <li>I'm born in 2009, Russia, Saint-Petersburg</li>
-  <li>My favorite languages are JS and python</li>
-  <li>I play minecraft bedrock, have own server</li>
+  <li>JS/python/cpp dev</li>
+  <li>Love mcbe</li>
   <li>My Telegram: <a href="https://t.me/Prorok_ilon">Prorok_ilon</a></li>
   <li>My Discord: <a href="https://discordapp.com/users/1012410375788048384/">prorok#1661</a></li>
   
