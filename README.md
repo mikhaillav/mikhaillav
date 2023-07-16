@@ -11,7 +11,7 @@
   <li>JS/python/cpp dev</li>
   <li>Love mcbe</li>
   <li>My Telegram: <a href="https://t.me/mikhaillav">mikhaillav</a></li>
-  <li>My Discord: <a href="https://discordapp.com/users/1012410375788048384/">prorok#1661</a></li>
+  <li>My Discord: <a href="https://discordapp.com/users/1012410375788048384/">mikhaillav</a></li>
   
 </div>
 
