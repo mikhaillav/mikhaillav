@@ -7,7 +7,7 @@
 
 <div align="left">
   <h2>:moyai:About me:</h2>
-  <li>I'm born in 2009, Russia, Saint-Petersburg</li>
+  <li>I was born in 2009, Russia, Saint-Petersburg</li>
   <li>Studying in <a href="https://school30.spb.ru/">30 Phys-Math Lyceum</a></li>
   <li>JS/TS/Go/Cpp dev</li>
   <li>Love mcbe</li>
